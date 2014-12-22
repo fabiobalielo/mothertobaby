@@ -24,8 +24,8 @@ CSS rules into "custom.css".
 	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://wufoo.com/images/themes/logos/shark.png", sizingMethod="crop");
 }
 
-.wufoo #header {
-	display: none;
+#header {
+	display: none !important;
 }
 
 /* Backgrounds */
